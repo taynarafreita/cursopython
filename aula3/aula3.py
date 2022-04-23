@@ -1,0 +1,5 @@
+print('String = str')
+print('Tudo dentro das aspas é considerado uma "string".')
+print("String nada mais é do que o 'texto'.")
+print ('Coloquei as aspas de diferentes formas para que o python reconheça.')
+print('Se eu colocasse o mesmo tipo de aspas quando quisesse destacá-las no texto, o programa não iria reconhecer.')
